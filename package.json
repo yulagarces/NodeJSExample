@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yulagarces/NodeJSExample/issues"
   },
-  "homepage": "https://github.com/yulagarces/NodeJSExample#readme"
+  "homepage": "https://github.com/yulagarces/NodeJSExample#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
