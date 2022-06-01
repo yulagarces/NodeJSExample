@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "laboratorios de node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulagarces/NodeJSExample.git"
+  },
+  "author": "Yuli Sidney Garcés Bolaños",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulagarces/NodeJSExample/issues"
+  },
+  "homepage": "https://github.com/yulagarces/NodeJSExample#readme"
+}
